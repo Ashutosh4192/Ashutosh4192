@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🔭 I’m Ashutosh and am currently working on building full-stack apps using Flutter and Firebase, while exploring backend development with Node.js and refining my problem-solving skills through DSA practice.<br><br>⚡ Fun fact<br>📚 When I’m not coding, I’m probably learning how to code better.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-chaturvedi-441b15256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaturvediashutoshkumar@gmail.com) 
 
 # 💻 Tech Stack:
